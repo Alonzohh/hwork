@@ -1,0 +1,21 @@
+// 1
+console.log(""==true);
+// 2
+console.log("1"==true);
+// 3
+console.log(Boolean()=="");
+// 4
+console.log(""==4214.5125);
+// 5
+const a=[3, 5];
+const b=a;
+console.log(a===b);
+// a
+console.log(Boolean(0));
+console.log(Boolean(1));
+console.log(Boolean(2));
+console.log(Boolean(3));
+console.log(Boolean(4));
+console.log(Boolean(5));
+// b
+console.log(1=="1");
